@@ -1,7 +1,7 @@
 +++
 title = "Part of the Twelve Apostles rock formations, Victoria, Australia"
 date = 2025-01-22T16:41:27+01:00
-tags = ["Australia"]
+tags = ["in Australia"]
 +++
 
 ![](/Part%20of%20the%20Twelve%20Apostles%20rock%20formations%20Victoria%20Australia.jpeg)

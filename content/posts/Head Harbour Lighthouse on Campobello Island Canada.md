@@ -1,7 +1,7 @@
 +++
 title = "Head Harbour Lighthouse on Campobello Island, Canada"
 date = 2025-01-22T16:41:27+01:00
-tags = ["Canada"]
+tags = ["in Canada", "Lighthouse"]
 +++
 
 ![](/Head%20Harbour%20Lighthouse%20on%20Campobello%20Island%20Canada.jpg)

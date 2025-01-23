@@ -1,7 +1,7 @@
 +++
 title = "Lake Yamanaka and Mount Fuji in Yamanashi Prefecture, Japan"
 date = 2025-01-22T16:41:27+01:00
-tags = ["Japan"]
+tags = ["in Japan", "Mount Fuji", "Lake"]
 +++
 
 ![](/Lake%20Yamanaka%20and%20Mount%20Fuji%20in%20Yamanashi%20Prefecture%20Japan.jpg)

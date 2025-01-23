@@ -1,7 +1,7 @@
 +++
 title = "Mountains and rice fields in Cao Bang Province, Vietnam"
 date = 2025-01-22T16:41:27+01:00
-tags = ["Vietnam"]
+tags = ["in Vietnam", "Rice"]
 +++
 
 ![](/Mountains%20and%20rice%20fields%20in%20Cao%20Bang%20Province%20Vietnam.jpg)

@@ -1,7 +1,7 @@
 +++
 title = "Lake Tekapo on the South Island, New Zealand"
 date = 2025-01-22T16:41:27+01:00
-tags = ["New Zealand"]
+tags = ["in New Zealand", "Lake"]
 +++
 
 ![](/Lake%20Tekapo%20on%20the%20South%20Island%20New%20Zealand.jpeg)

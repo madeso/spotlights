@@ -1,6 +1,7 @@
 +++
 title = "Moat and parkland of Tokyo Imperial Palace in Tokyo, Japan"
 date = 2025-01-22T16:41:27+01:00
+tags = ["in Japan", "Bridge"]
 +++
 
 ![](/Moat%20and%20parkland%20of%20Tokyo%20Imperial%20Palace%20in%20Tokyo%20Japan.jpeg)

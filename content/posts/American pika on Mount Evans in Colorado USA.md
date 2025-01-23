@@ -1,7 +1,7 @@
 +++
 title = "American pika on Mount Evans in Colorado, USA"
 date = 2025-01-22T16:41:27+01:00
-tags = ["USA"]
+tags = ["in USA", "Animals"]
 +++
 
 ![](/American%20pika%20on%20Mount%20Evans%20in%20Colorado%20USA.jpg)

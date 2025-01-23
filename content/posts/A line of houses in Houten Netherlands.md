@@ -1,7 +1,7 @@
 +++
 title = "A line of houses in Houten, Netherlands"
 date = 2025-01-22T16:41:27+01:00
-tags = ["Netherlands"]
+tags = ["in Netherlands", "House"]
 +++
 
 ![](/A%20line%20of%20houses%20in%20Houten%20Netherlands.jpeg)

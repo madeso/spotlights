@@ -1,7 +1,7 @@
 +++
 title = 'Kintai Bridge'
 date = 2025-01-22T16:41:27+01:00
-tags = ["Japan"]
+tags = ["in Japan", "Bridge"]
 +++
 
 ![](/kintai%20bridge-%20Iwakuni%20Japan.jpeg)

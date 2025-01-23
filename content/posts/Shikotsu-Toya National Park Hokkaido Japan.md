@@ -1,7 +1,7 @@
 +++
 title = "Shikotsu-Tōya National Park, Hokkaido, Japan"
 date = 2025-01-22T16:41:27+01:00
-tags = ["Japan"]
+tags = ["in Japan", "National Park", "Lake"]
 +++
 
 ![](/Shikotsu-Toya%20National%20Park%20Hokkaido%20Japan.jpeg)

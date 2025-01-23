@@ -1,7 +1,7 @@
 +++
 title = "Observation Point trail in Zion National Park, Utah, USA"
 date = 2025-01-22T16:41:27+01:00
-tags = ["USA"]
+tags = ["in USA", "National Park"]
 +++
 
 ![](/Observation%20Point%20trail%20in%20Zion%20National%20Park%20Utah%20USA.jpg)

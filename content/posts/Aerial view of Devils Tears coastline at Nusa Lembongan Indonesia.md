@@ -1,7 +1,7 @@
 +++
 title = "Aerial view of Devil's Tears coastline at Nusa Lembongan, Indonesia"
 date = 2025-01-22T16:41:27+01:00
-tags = ["Indonesia"]
+tags = ["in Indonesia"]
 +++
 
 ![](/Aerial%20view%20of%20Devils%20Tears%20coastline%20at%20Nusa%20Lembongan%20Indonesia.jpg)

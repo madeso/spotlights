@@ -1,7 +1,7 @@
 +++
 title = 'Cala Coticcio on Caprera Island, Italy'
 date = 2025-01-22T16:41:27+01:00
-tags = ["Italy"]
+tags = ["in Italy", "National Park"]
 +++
 
 ![](/Cala%20Coticcio%20on%20Caprera%20Island-Italy.jpg)

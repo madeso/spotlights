@@ -1,7 +1,7 @@
 +++
 title = "Aspen trees in Grand Teton National Park, Wyoming, USA"
 date = 2025-01-22T16:41:27+01:00
-tags = ["USA"]
+tags = ["in USA"]
 +++
 
 ![](/Aspen%20trees%20in%20Grand%20Teton%20National%20Park%20Wyoming%20USA.jpg)

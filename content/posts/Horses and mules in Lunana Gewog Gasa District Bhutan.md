@@ -1,7 +1,7 @@
 +++
 title = "Horses and mules in Lunana Gewog, Gasa District, Bhutan"
 date = 2025-01-22T16:41:27+01:00
-tags = ["Bhutan"]
+tags = ["in Bhutan", "Animals"]
 +++
 
 ![](/Horses%20and%20mules%20in%20Lunana%20Gewog%20Gasa%20District%20Bhutan.jpg)

@@ -1,7 +1,7 @@
 +++
 title = "Castel del Monte in Apulia, Italy"
 date = 2025-01-22T16:41:27+01:00
-tags = ["in Italy", "Castle"]
+tags = ["in Italy", "Castle", "World Heritage Site"]
 +++
 
 ![](/Castel%20del%20Monte%20in%20Apulia%20Italy.jpg)

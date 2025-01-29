@@ -2,8 +2,8 @@
 	<h1>{{ .Title }}</h1>
 	{{ .Content }}
 	{{ range .Pages }}
-		<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-		<img src="{{.Params.image}}" />
-		{{ .Content }}
+		<a href="{{ .RelPermalink }}" class="for-image">
+			<img src="{{.Params.image}}" alt="{{ .LinkTitle }}" title="{{ .LinkTitle }}" class="small"/>
+		</a>
 	{{ end }}
 {{ end }}

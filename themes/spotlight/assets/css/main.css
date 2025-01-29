@@ -50,7 +50,24 @@ a:hover {
 	text-decoration: underline;
 }
 
+a.for-image img {
+	text-decoration: none;
+}
+a.for-image:hover {
+	color: var(--link);
+	text-decoration: none;
+}
+a.for-image:hover img {
+	transform: scale(1.1);
+}
+
 img, video {
 	max-width: 100%;
+	height: auto;
+	transition: transform 0.2s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+img.small {
+	max-width: 32%;
 	height: auto;
 }

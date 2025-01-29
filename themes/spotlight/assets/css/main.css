@@ -1,9 +1,11 @@
 body {
 	color: #222;
-	font-family: sans-serif;
-	line-height: 1.5;
-	margin: 1rem;
-	max-width: 768px;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif;
+	text-rendering: optimizeLegibility;
+	line-height: 1.4;
+	max-width: 800px;
+	margin: 20px auto;
+	padding: 0 10px;
 }
 
 header {
@@ -19,4 +21,9 @@ footer {
 a {
 	color: #00e;
 	text-decoration: none;
+}
+
+img, video {
+	max-width: 100%;
+	height: auto;
 }

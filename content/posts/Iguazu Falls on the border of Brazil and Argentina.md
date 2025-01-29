@@ -2,11 +2,8 @@
 title = "Iguazú Falls on the border of Brazil and Argentina"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Brazil", "in Argentina", "Waterfall"]
+image = "/Iguazu%20Falls%20on%20the%20border%20of%20Brazil%20and%20Argentina.jpg"
 +++
-
-##
-
-![](/Iguazu%20Falls%20on%20the%20border%20of%20Brazil%20and%20Argentina.jpg)
 
 The portion of the huge Iguazú Falls complex we're seeing in our image is named, rather menacingly, ‘Devil’s Throat’. The long canyon earns its name by drinking in half the water of the falls before spitting it back out in a fiendish froth. The stunning Iguazú Falls have been named one of the New 7 Wonders of Nature, and they make a dramatic border between Argentina and Brazil. On the Argentine side, a viewing platform allows for panoramic views of the falls, while over in Brazil, trails lead to the canyon's base.
 

@@ -71,3 +71,54 @@ img.small {
 	max-width: 32%;
 	height: auto;
 }
+
+/* term list: like tags
+*/
+ul.terms-list {
+	list-style-type: none;
+	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+ul.terms-list li {
+	white-space: nowrap;
+	display: inline-flex;
+	align-items: center;
+	position: relative;
+}
+
+ul.terms-list li.bullet::before {
+	content: "•";
+	margin: 0 0.5rem;
+}
+
+ul.terms-list li.spacing {
+	break-after: always;
+	white-space: break-spaces;
+	line-break: anywhere;
+}
+ul.terms-list li.spacing:after {
+	content: " ";
+	display: block;
+}
+
+/*
+// css only
+// bug: bullet point visible before linewrap, should be hidden
+ul.terms-list {
+	list-style-type: none;
+	padding: 0;
+}
+ul.terms-list li {
+	white-space: nowrap;
+}
+ul.terms-list li {
+	display: inline list-item;
+}
+
+ul.terms-list li:not(:last-child)::after {
+	content: "•";
+	margin: 0 0.5rem;
+}
+*/

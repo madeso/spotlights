@@ -1,7 +1,7 @@
 +++
 title = 'Monk’s Fishing House at Cong Abbey, Ireland'
 date = 2025-02-18T16:56:01+01:00
-tags = ["Houses", "in Ireland", "Water"]
+tags = ["House", "in Ireland", "Water"]
 image = "/Monks%20Fishing%20House%20at%20Cong%20Abbey%20Ireland.jpg"
 copyright = "© e55evu / Adobe Stock"
 +++

@@ -6,6 +6,7 @@
 	<time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 
 	<img src="{{.Params.image}}" />
+	<p>{{ .Params.copyright }}</p>
 	{{ .Content }}
 	{{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}

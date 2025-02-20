@@ -72,12 +72,16 @@ img.small {
 	height: auto;
 }
 
+div.terms-container > div {
+	display: inline-flex;
+}
+
 /* term list: like tags
 */
 ul.terms-list {
 	list-style-type: none;
 	padding: 0;
-	display: flex;
+	display: inline-flex;
 	flex-wrap: wrap;
 }
 

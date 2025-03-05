@@ -1,7 +1,7 @@
 +++
 title = "Aerial view of Castillo San Cristóbal in San Juan, Puerto Rico"
 date = 2025-01-22T16:41:27+01:00
-tags = ["in Puerto Rico"]
+tags = ["in Puerto Rico", "Aerial View"]
 image = "/Aerial%20view%20of%20Castillo%20San%20Cristóbal%20in%20San%20Juan%20Puerto%20Rico.jpg"
 +++
 

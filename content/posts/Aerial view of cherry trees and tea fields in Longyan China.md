@@ -1,7 +1,7 @@
 +++
 title = 'Aerial view of cherry trees and tea fields in Longyan, China'
 date = 2025-02-19T10:58:22+01:00
-tags = ["Aerial view", "cherry trees", "tea fields", " in China"]
+tags = ["Aerial view", "cherry trees", "tea fields", " in China", "Aerial View"]
 image = "/Aerial%20View%20of%20Cherry%20Trees%20and%20Tea%20Fields%20in%20Longyan%20China.jpg"
 copyright = "© SEN LI / Moment / Getty Images"
 +++

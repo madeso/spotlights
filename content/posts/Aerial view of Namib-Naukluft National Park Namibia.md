@@ -1,7 +1,7 @@
 +++
 title = "Aerial view of Namib-Naukluft National Park, Namibia"
 date = 2025-01-22T16:41:27+01:00
-tags = ["in Namibia", "Balloon", "National Park"]
+tags = ["in Namibia", "Balloon", "National Park", "Aerial View"]
 image = "/Aerial%20view%20of%20Namib-Naukluft%20National%20Park%20Namibia.jpeg"
 copyright = "© robertharding / Adobe Stock"
 +++

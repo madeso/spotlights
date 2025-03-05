@@ -1,7 +1,7 @@
 +++
 title = "Aerial view of Thousand Islands, Ontario, Canada"
 date = 2025-03-05T08:48:41+01:00
-tags = ["in Canada", "Island"]
+tags = ["in Canada", "Island", "Aerial View"]
 image = "/Aerial%20View%20of%20Thousand%20Islands%20Ontario%20Canada.jpg"
 copyright = "© redtea / iStock / Getty Images Plus"
 +++

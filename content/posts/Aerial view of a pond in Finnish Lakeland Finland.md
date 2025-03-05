@@ -1,7 +1,7 @@
 +++
 title = 'Aerial View of a Pond in Finnish Lakeland, Finland'
 date = 2025-01-24T12:31:00+01:00
-tags = ["in Finland", "Lake"]
+tags = ["in Finland", "Lake", "Aerial View"]
 image = "/Aerial%20View%20of%20a%20Pond%20in%20Finnish%20Lakeland%20Finland.jpg"
 +++
 

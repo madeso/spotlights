@@ -3,7 +3,7 @@ title = 'Carnic Alps in Carinthia, Austria'
 date = 2025-02-18T14:39:42+01:00
 tags = ["Alps", "in Austria"]
 image = "/Carnic%20Alps%20in%20Carinthia%20Austria.jpg"
-copyright = "© Westend61 / Adobe Stock"
+copyrights = ["Westend61 / Adobe Stock"]
 +++
 
 Mountains and lakes are Carinthia's best-known natural features, and while the lakes here are certainly splendid, our image features part of the incredible mountain range that marches through this, the southernmost Austrian state. The Carnic Alps are a subrange of the Southern Limestone Alps and form a roughly 62-mile border between Austria and Italy.

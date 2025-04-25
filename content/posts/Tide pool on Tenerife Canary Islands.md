@@ -3,7 +3,7 @@ title = "Tide Pool on Tenerife Canary Islands"
 date = 2025-03-12T14:40:20+01:00
 tags = ["in Tenerife", "in Canary Islands", "Water"]
 image = "/Tide%20Pool%20on%20Tenerife%20Canary%20Islands.jpg"
-copyright = "© Carlos M. Almagro / Cavan Images"
+copyrights = ["Carlos M. Almagro / Cavan Images"]
 +++
 
 Tide pool on Tenerife, Canary Islands

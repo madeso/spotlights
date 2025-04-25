@@ -2,3 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Spotlight'
 theme = 'spotlight'
+
+[taxonomies]
+	copyrights = 'copyrights'
+	tag = 'tags'

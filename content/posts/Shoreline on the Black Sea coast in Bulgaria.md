@@ -3,6 +3,7 @@ title = 'Shoreline on the Black Sea coast in Bulgaria'
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Bulgaria"]
 image = "/Shoreline%20on%20the%20Black%20Sea%20coast%20in%20Bulgaria.jpg"
+copyrights = ["missing"]
 +++
 
 The Italian and French Rivieras are storied stretches of Mediterranean coastline, but farther east are shores of another Riviera. Along a large portion of the Black Sea in Bulgaria lie more than 200 miles of seashore where resort towns are fronted by swaths of golden sand. Peppering this Bulgarian Riviera are rocky areas—such as the scene in our image—where rugged cliffs lead down to sculpted sea stacks and boulders washed by the blue water of the Black Sea.

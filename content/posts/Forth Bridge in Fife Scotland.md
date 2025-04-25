@@ -3,7 +3,7 @@ title = "Forth Bridge in Fife, Scotland"
 date = 2025-03-20T21:52:12+01:00
 tags = ["Bridge", "in Scotland", "Water"]
 image = "/Forth%20Bridge%20in%20Fife%20Scotland.jpg"
-copyright = "© John Carroll Photography / Alamy Stock Photo"
+copyrights = ["John Carroll Photography / Alamy Stock Photo"]
 +++
 
 Named after the estuary it crosses – the Firth of Forth – the huge cantilever bridge in our image is an icon of Scotland formed in steel. Completed in 1889, the Forth Bridge is considered the first major steel construction in Great Britain. An astounding 6.5 million rivets help hold the triple-towered bridge together as it carries rail traffic over the water.

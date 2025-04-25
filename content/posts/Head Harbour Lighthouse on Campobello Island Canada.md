@@ -3,6 +3,7 @@ title = "Head Harbour Lighthouse on Campobello Island, Canada"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Canada", "Lighthouse"]
 image = "/Head%20Harbour%20Lighthouse%20on%20Campobello%20Island%20Canada.jpg"
+copyrights = ["missing"]
 +++
 
 Situated on a rocky islet off the northern end of Campobello Island stands Head Harbour Lighthouse. Once essential to ships navigating the Bay of Fundy, it’s now unstaffed but remains a beloved symbol of the island. Some have called it the most photographed lighthouse in Canada. Getting a close-up shot of the place is tricky, as the islet is only accessible at low tide, and the Bay of Fundy has the highest tidal range in the world.

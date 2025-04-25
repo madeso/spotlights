@@ -3,7 +3,7 @@ title = "Merced River in Yosemite National Park, California, USA"
 date = 2025-03-05T08:56:26+01:00
 tags = ["in USA", "National Park", "River"]
 image = "/Merced%20River%20in%20Yosemite%20National%20Park%20California%20USA.jpg"
-copyright = "© Image by Chris Winsor / Moment / Getty Images"
+copyrights = ["Image by Chris Winsor / Moment / Getty Images"]
 +++
 
 More than 120 miles of the Merced River are officially protected as a Wild and Scenic River. And for much of its total 145-mile course, the Merced River's 'wild and scenic' description is entirely on point.

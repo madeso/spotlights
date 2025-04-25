@@ -3,6 +3,7 @@ title = "Horses and mules in Lunana Gewog, Gasa District, Bhutan"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Bhutan", "Animals"]
 image = "/Horses%20and%20mules%20in%20Lunana%20Gewog%20Gasa%20District%20Bhutan.jpg"
+copyrights = ["missing"]
 +++
 
 Only a few thousand people live in Bhutan's Gasa District. It's considered the largest, and the least populated, district in the country—the horse population may well outnumber the human inhabitants. Gasa is also very remote, located in the far northwest reaches of the country, and crowned by a stretch of the Himalayas. The breathtaking scene in our image lies within Lunana Gewog, a village area in Gasa.

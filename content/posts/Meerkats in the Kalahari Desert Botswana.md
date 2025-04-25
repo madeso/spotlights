@@ -3,7 +3,7 @@ title = 'Meerkats in the Kalahari Desert, Botswana'
 date = 2025-02-03T14:53:21+01:00
 tags = ["Animals", "in Botswana", "Desert"]
 image = "/Meerkats%20in%20the%20Kalahari%20Desert%20Botswana.jpg"
-copyright = "© Martin Mecnarowski / Adobe Stock"
+copyrights = ["Martin Mecnarowski / Adobe Stock"]
 +++
 
 While it certainly bears a passing resemblance to a squirrel or weasel, the meerkat is a type of mongoose native to the southern African plains. You'll find meerkats in parts of South Africa, Angola, Namibia and in the Kalahari Desert of Botswana, where our image was taken. Although they primarily live on insects, their diet also includes seeds, fruit, snakes, lizards, eggs and even scorpions.

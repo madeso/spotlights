@@ -3,7 +3,7 @@ title = 'Tugela Valley within the Drakensberg region of South Africa'
 date = 2025-02-19T10:56:18+01:00
 tags = ["Valley", "in South Africa"]
 image = "/Tugela%20Valley%20Within%20the%20Drakensberg%20Region%20of%20South%20Africa.jpg"
-copyrights = ["David Noton Photography / Alamy Stock Photo"]
+copyrights = ["David Noton Photography", "Alamy Stock Photo"]
 +++
 
 The expansive scene in our image is just a portion of the Drakensberg, a sweeping landscape of wide river valleys, high plateaus, and truly monumental mountains. And the Drakensberg is only the eastern portion of the much larger Great Escarpment, a massive plateau that defines the landscape of southern Africa. The Drakensberg stretches some 600 miles across the border regions of South Africa and Lesotho, with terrain both lush and rugged. It includes a generous helping of geologic showstoppers: Highlights include Blyde River Canyon, the Giant’s Castle, and the well-named God's Window.

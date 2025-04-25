@@ -3,7 +3,7 @@ title = 'Aerial view of Glass Window Bridge, Eleuthera, Bahamas'
 date = 2025-02-10T12:52:01+01:00
 tags = ["Water", "Bridge", "in Bahamas", "Aerial View"]
 image = "/Aerial%20View%20of%20Glass%20Window%20Bridge%20Eleuthera%20Bahamas.jpg"
-copyrights = ["RooM The Agency / Adobe Stock"]
+copyrights = ["RooM The Agency", "Adobe Stock"]
 +++
 
 Choosing the most beautiful spot in the Bahamas would be a very difficult task. So, let's narrow it down to one island in the chain – Eleuthera. It's still not going to be easy, but studying the incredible scenery, which includes pink sand beaches, mangroves and exposed coral reefs, won't be a chore. One candidate for the most breathtaking and most unusual sight on the island is the Glass Window Bridge. Here, with just a narrow isthmus separating them, the deep blue of the Atlantic Ocean and the turquoise waters of the Bight of Eleuthera come within splashing distance of each other.

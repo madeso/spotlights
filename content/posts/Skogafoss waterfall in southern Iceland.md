@@ -3,7 +3,7 @@ title = "Skógafoss waterfall in southern Iceland"
 date = 2025-04-11T19:18:59+02:00
 tags = ["waterfall", "in Iceland"]
 image = "/Skogafoss%20Waterfall%20in%20Southern%20Iceland.jpg"
-copyrights = ["Maridav / Adobe Stock"]
+copyrights = ["Maridav", "Adobe Stock"]
 +++
 Skógafoss waterfall flows just south of the Mid-Atlantic Ridge, known locally as the Reykjanes Ridge, a mountain system that's very slowly tearing Iceland apart. Even in a country brimming with plenty of spectacular waterfalls, the mighty torrent of Skógafoss makes a dramatic impression. It's one of the biggest cascades in the country, with a width of roughly 24 metres and a drop of 60 metres.
 

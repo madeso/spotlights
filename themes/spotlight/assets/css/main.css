@@ -76,6 +76,21 @@ div.terms-container > div {
 	display: inline-flex;
 }
 
+header nav ul {
+	list-style-type: none;
+	padding: 0;
+	display: inline-flex;
+	flex-wrap: wrap;
+}
+
+header nav li {
+	white-space: nowrap;
+	display: inline-flex;
+	align-items: center;
+	position: relative;
+	padding-right: 2em;
+}
+
 /* term list: like tags
 */
 ul.terms-list {

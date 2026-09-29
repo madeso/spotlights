@@ -1,0 +1,9 @@
+<a href="{{ .RelPermalink }}" class="for-image">
+    {{ $page := .}}
+    {{ with .Resources.Get "spotlight.jpeg" }}
+        {{ with .Resize "300x" }}
+            <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}"
+                alt="{{ $page.LinkTitle }}" title="{{ $page.LinkTitle }}" class="small">
+        {{ end }}
+    {{ end }}
+</a>

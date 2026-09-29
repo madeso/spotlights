@@ -5,7 +5,9 @@
 	{{ $dateHuman := .Date | time.Format ":date_long" }}
 	<time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 
-	<img src="{{.Params.image}}" />
+	{{ with .Resources.Get "spotlight.jpeg" }}
+		<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+	{{ end }}
 	{{ partial "terms.html" (dict "taxonomy" "copyrights" "page" .) }}
 	{{ .Content }}
 	{{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}

@@ -2,7 +2,6 @@
 title = 'Epupa Falls, on the border of Namibia and Angola'
 date = 2025-02-18T12:08:02+01:00
 tags = ["Waterfall", "in Namibia", "in Angola", "Water"]
-image = "/Epupa%20Falls%20on%20the%20Border%20of%20Namibia%20and%20Angola.jpg"
 copyrights = ["Martin Harvey", "The Image Bank", "Getty Images"]
 +++
 

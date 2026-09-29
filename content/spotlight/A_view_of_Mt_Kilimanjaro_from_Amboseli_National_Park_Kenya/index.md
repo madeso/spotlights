@@ -2,7 +2,6 @@
 title = "A view of Mt Kilimanjaro from Amboseli National Park, Kenya"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Kenya", "National Park", "Mountain"]
-image = "/A%20view%20of%20Mt%20Kilimanjaro%20from%20Amboseli%20National%20Park%20Kenya.jpeg"
 copyrights = ["missing"]
 +++
 

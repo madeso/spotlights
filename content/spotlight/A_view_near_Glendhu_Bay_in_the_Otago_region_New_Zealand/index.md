@@ -2,7 +2,6 @@
 title = "A view near Glendhu Bay in the Otago region, New Zealand"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in New Zealand"]
-image = "/A%20view%20near%20Glendhu%20Bay%20in%20the%20Otago%20region%20New%20Zealand.jpg"
 copyrights = ["missing"]
 +++
 

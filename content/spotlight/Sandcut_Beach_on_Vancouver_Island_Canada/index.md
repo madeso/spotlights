@@ -2,7 +2,6 @@
 title = "Sandcut Beach on Vancouver Island, Canada"
 date = 2025-03-05T09:09:16+01:00
 tags = ["in Canada", "Beach"]
-image = "/Sandcut%20Beach%20on%20Vancouver%20Island%20Canada.jpg"
 copyrights = ["davemantel", "E", "Getty Images"]
 +++
 

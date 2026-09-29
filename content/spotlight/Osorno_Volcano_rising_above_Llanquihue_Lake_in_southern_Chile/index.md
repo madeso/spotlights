@@ -2,7 +2,6 @@
 title = 'Osorno Volcano rising above Llanquihue Lake in southern Chile'
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Chile", "Volcano", "Lake", "Mount Fuji", "Mountain"]
-image = "/Osorno%20Volcano%20rising%20above%20Llanquihue%20Lake%20in%20southern%20Chile.jpg"
 copyrights = ["missing"]
 +++
 

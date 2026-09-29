@@ -2,7 +2,6 @@
 title = 'Segla Mountain on Senja Island, Norway'
 date = 2025-01-24T12:42:10+01:00
 tags = ["Mountain", "Island", "in Norway"]
-image = "/Segla%20Mountain%20on%20Senja%20Island%20Norway.jpg"
 copyrights = ["Oleh_Slobodeniuk", "E", "Getty Images"]
 +++
 

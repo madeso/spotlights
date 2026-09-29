@@ -2,7 +2,6 @@
 title = "Anacapa Island arch rock, Channel Islands National Park, California, USA"
 date = 2025-03-20T22:06:20+01:00
 tags = ["National Park", "in California", "in USA"]
-image = "/Anacapa%20Island%20Arch%20Rock%20Channel%20Islands%20National%20Park%20California%20USA.jpg"
 copyrights = ""
 +++
 

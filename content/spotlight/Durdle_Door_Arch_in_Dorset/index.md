@@ -2,7 +2,6 @@
 title = 'Durdle Door Arch in Dorset'
 date = 2025-02-19T12:59:11+01:00
 tags = ["Beach", "Rocks", "in England"]
-image = "/Durdle%20Door%20Arch%20in%20Dorset.jpg"
 copyrights = ["Derek Croucher", "Alamy Stock Photo"]
 +++
 

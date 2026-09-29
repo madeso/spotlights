@@ -2,7 +2,6 @@
 title = "Leshan Chengdu ZhuoYing Ancient Bridge Sichuan Province China"
 date = 2025-03-12T15:04:13+01:00
 tags = ["in China", "Bridge"]
-image = "/Leshan%20Chengdu%20ZhuoYing%20Ancient%20Bridge%20Sichuan%20Province%20China.jpg"
 copyrights = ""
 +++
 

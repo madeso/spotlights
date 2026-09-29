@@ -2,7 +2,6 @@
 title = "Grundlsee, a lake in Austria"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Austria", "Lake"]
-image = "/Grundlsee%20a%20lake%20in%20Austria.jpeg"
 copyrights = ["missing"]
 +++
 

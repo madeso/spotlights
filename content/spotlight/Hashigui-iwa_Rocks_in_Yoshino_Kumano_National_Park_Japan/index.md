@@ -2,7 +2,6 @@
 title = 'Hashigui-iwa rocks in Yoshino-Kumano National Park, Japan'
 date = 2025-02-18T16:24:24+01:00
 tags = ["in Japan", "National park", "Rocks", "Water"]
-image = "/Hashigui-iwa%20Rocks%20in%20Yoshino%20Kumano%20National%20Park%20Japan.jpg"
 copyrights = ["Sean Pavone", "Alamy Stock Photo"]
 +++
 

@@ -2,7 +2,6 @@
 title = "A line of houses in Houten, Netherlands"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Netherlands", "House"]
-image = "/A%20line%20of%20houses%20in%20Houten%20Netherlands.jpeg"
 copyrights = ["George Pachantouris", "Moment", "Getty Images"]
 +++
 

@@ -2,7 +2,6 @@
 title = "Petit Minou Lighthouse in Finistère, France"
 date = 2025-03-05T11:18:12+01:00
 tags = ["Lighthouse", "in France"]
-image = "/Petit%20Minou%20Lighthouse%20in%20Finistere%20France.jpg"
 copyrights = ["MathieuRivrin", "Moment", "Getty Images"]
 +++
 

@@ -2,7 +2,6 @@
 title = 'Aerial view of coastal road on Tenerife, Canary Islands'
 date = 2025-02-18T12:08:32+01:00
 tags = ["Road", "Water", "in Canary Islands", "in Tenerife", "Island", "Aerial View"]
-image = "/Aerial%20View%20of%20Coastal%20Road%20on%20Tenerife%20Canary%20Islands.jpg"
 copyrights = ["Marco Bottigelli", "Moment", "Getty Images"]
 +++
 

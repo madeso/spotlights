@@ -2,7 +2,6 @@
 title = "Lake Carezza in South Tyrol, Italy"
 date = 2025-03-05T08:44:27+01:00
 tags = ["in italy", "Lake", "Mountain"]
-image = "/Lake%20Carezza%20in%20South%20Tyrol%20Italy.jpg"
 copyrights = ["agustavop", "IStock", "Getty Images Plus"]
 +++
 

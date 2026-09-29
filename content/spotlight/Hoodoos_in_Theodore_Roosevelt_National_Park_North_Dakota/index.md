@@ -2,7 +2,6 @@
 title = 'Hoodoos in Theodore Roosevelt National Park, North Dakota'
 date = 2025-02-18T16:50:01+01:00
 tags = ["National Park", "in North Dakota", "in USA"]
-image = "/Hoodoos%20in%20Theodore%20Roosevelt%20National%20Park%20North%20Dakota.jpg"
 copyrights = ["Paul Souders", "Stone", "Getty Images"]
 +++
 

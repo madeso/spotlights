@@ -2,7 +2,6 @@
 title = 'Kintai Bridge'
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Japan", "Bridge"]
-image = "/kintai%20bridge-%20Iwakuni%20Japan.jpeg"
 copyrights = ["missing"]
 +++
 

@@ -2,7 +2,6 @@
 title = 'Jade Dragon Snow Mountain and Blue Moon Valley in Lijiang, China'
 date = 2025-01-23T16:48:07+01:00
 tags = ["in China", "Mountain", "World Heritage Site", "Lake"]
-image = "/Jade%20Dragon%20Snow%20Mountain%20and%20Blue%20Moon%20Valley%20in%20Lijiang%20China.jpg"
 copyrights = ["missing"]
 +++
 

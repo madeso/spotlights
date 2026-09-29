@@ -2,7 +2,6 @@
 title = "View from Zabriskie Point in Death Valley, California, USA"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in USA", "in Death Valley", "in California", "National Park"]
-image = "/View%20from%20Zabriskie%20Point%20in%20Death%20Valley%20California%20USA.jpeg"
 copyrights = ["missing"]
 +++
 

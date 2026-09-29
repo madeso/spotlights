@@ -2,7 +2,6 @@
 title = 'Paracas National Reserve shoreline in Ica, Peru'
 date = 2025-01-24T12:35:09+01:00
 tags = ["in Peru", "National Reserve"]
-image = "/Paracas%20National%20Reserve%20shoreline%20in%20Ica%20Peru.jpg"
 copyrights = ["Mark Green", "Shutterstock"]
 +++
 

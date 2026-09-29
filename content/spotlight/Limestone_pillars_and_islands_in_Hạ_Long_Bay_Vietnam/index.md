@@ -2,7 +2,6 @@
 title = 'Limestone pillars and islands in Hạ Long Bay, Vietnam'
 date = 2025-01-24T12:39:09+01:00
 tags = ["in Vietnam", "Island"]
-image = "/Limestone%20pillars%20and%20islands%20in%20Hạ%20Long%20Bay%20Vietnam.jpg"
 copyrights = ["Daniele Schneider", "Delta Images", "Offset"]
 +++
 

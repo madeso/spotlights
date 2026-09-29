@@ -2,7 +2,6 @@
 title = "Iguazú Falls on the border of Brazil and Argentina"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Brazil", "in Argentina", "Waterfall"]
-image = "/Iguazu%20Falls%20on%20the%20border%20of%20Brazil%20and%20Argentina.jpg"
 copyrights = ["missing"]
 +++
 

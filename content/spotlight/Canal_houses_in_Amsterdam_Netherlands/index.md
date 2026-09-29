@@ -2,7 +2,6 @@
 title = "Canal houses in Amsterdam, Netherlands"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Netherlands", "House"]
-image = "/Canal%20houses%20in%20Amsterdam%20Netherlands.jpeg"
 copyrights = ["missing"]
 +++
 

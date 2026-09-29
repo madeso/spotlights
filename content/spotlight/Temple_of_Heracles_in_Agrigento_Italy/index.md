@@ -2,7 +2,6 @@
 title = "Temple of Heracles in Agrigento, Italy"
 date = 2025-02-20T12:27:30+01:00
 tags = ["in Italy", "Temple"]
-image = "/Temple%20of%20Heracles%20in%20Agrigento%20Italy.jpg"
 copyrights = ["Michael Knöbl", "Adobe Stock"]
 +++
 

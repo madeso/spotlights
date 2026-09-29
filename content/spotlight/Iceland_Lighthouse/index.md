@@ -2,7 +2,6 @@
 title = "Svörtuloft Lighthouse on the Snæfellsnes Peninsula, Iceland"
 date = 2025-03-05T10:42:51+01:00
 tags = ["Lighthouse", "in Iceland", "Water", "Snow"]
-image = "/Iceland%20Lighthouse.jpg"
 copyrights = ["YONGRONG YU", "Moment", "Getty Images"]
 +++
 

@@ -2,7 +2,6 @@
 title = "Waterfalls in Plitvice Lakes National Park, Croatia"
 date = 2025-03-12T14:37:00+01:00
 tags = ["in Croatia", "Waterfall", "National Park"]
-image = "/Waterfalls%20in%20Plitvice%20Lakes%20National%20Park%20Croatia.jpg"
 copyrights = ["Photobais", "IStock", "Getty Images Plus"]
 +++
 

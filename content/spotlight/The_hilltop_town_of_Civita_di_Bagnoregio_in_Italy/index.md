@@ -2,7 +2,6 @@
 title = "The hilltop town of Civita di Bagnoregio in Italy"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Italy"]
-image = "/The%20hilltop%20town%20of%20Civita%20di%20Bagnoregio%20in%20Italy.jpg"
 copyrights = ["missing"]
 +++
 

@@ -2,7 +2,6 @@
 title = "Hinterer Langbathsee, a lake in the Salzkammergut, Austria"
 date = 2025-03-05T11:23:44+01:00
 tags = ["Lake", "in Austria", "Water", "Reflection"]
-image = "/Hinterer%20Langbathsee%20a%20Lake%20in%20the%20Salzkammergut%20Austria.jpg"
 copyrights = ["Leonsbox", "IStock", "Getty Images Plus"]
 +++
 

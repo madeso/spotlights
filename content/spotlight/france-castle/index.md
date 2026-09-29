@@ -2,7 +2,6 @@
 title = "Château d'If in Marseille, France"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in France", "Fortress", "Castle"]
-image = "/france-castle.jpg"
 copyrights = ["missing"]
 +++
 

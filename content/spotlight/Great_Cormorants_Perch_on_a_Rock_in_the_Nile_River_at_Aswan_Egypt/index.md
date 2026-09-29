@@ -2,7 +2,6 @@
 title = 'Great cormorants perch on a rock in the Nile River at Aswan, Egypt'
 date = 2025-02-18T17:00:15+01:00
 tags = ["Animals", "Rocks", "Nile River", "in Egypt"]
-image = "/Great%20Cormorants%20Perch%20on%20a%20Rock%20in%20the%20Nile%20River%20at%20Aswan%20Egypt.jpg"
 copyrights = ["Khaled Noaman", "Alamy Stock Photo"]
 +++
 

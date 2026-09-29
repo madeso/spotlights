@@ -2,7 +2,6 @@
 title = "A vicuña in Chimborazo Province, Ecuador"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Ecuador", "Animals"]
-image = "/A%20vicuna%20in%20Chimborazo%20Province%20Ecuador.jpg"
 copyrights = ["missing"]
 +++
 

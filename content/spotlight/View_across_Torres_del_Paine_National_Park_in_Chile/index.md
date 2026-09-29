@@ -2,7 +2,6 @@
 title = "View across Torres del Paine National Park in Chile"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Chile", "National Park", "Mountain"]
-image = "/View%20across%20Torres%20del%20Paine%20National%20Park%20in%20Chile.jpeg"
 copyrights = ["missing"]
 +++
 

@@ -2,7 +2,6 @@
 title = "Cocora Valley in Los Nevados National Natural Park, Colombia"
 date = 2025-03-12T14:59:58+01:00
 tags = ["National Park", "in Colombia"]
-image = "/Cocora%20Valley%20in%20Los%20Nevados%20National%20Natural%20Park%20Colombia.jpg"
 copyrights = ["PhotoLatino", "eStock Photo"]
 +++
 

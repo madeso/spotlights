@@ -2,7 +2,6 @@
 title = "Moonset over Pikes Peak from the Garden of the Gods Park, Colorado Springs, USA"
 date = 2025-03-12T15:58:29+01:00
 tags = ["in Colorado Springs", "in USA"]
-image = "/Moonset%20Over%20Pikes%20Peak%20From%20the%20Garden%20of%20the%20Gods%20Park%20Colorado%20Springs%20USA.jpg"
 copyrights = ""
 +++
 

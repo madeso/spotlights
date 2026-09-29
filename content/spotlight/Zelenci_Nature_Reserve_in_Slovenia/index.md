@@ -2,7 +2,6 @@
 title = 'Zelenci Nature Reserve in Slovenia'
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Slovenia", "Nature Reserve", "Lake"]
-image = "/Zelenci%20Nature%20Reserve%20in%20Slovenia.jpg"
 copyrights = ["missing"]
 +++
 

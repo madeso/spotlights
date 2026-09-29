@@ -2,7 +2,6 @@
 title = 'Lagoon in El Nido, Palawan, Philippines'
 date = 2025-02-03T14:53:37+01:00
 tags = ["in Philippines", "Lagoon", "Water"]
-image = "/Lagoon%20in%20El%20Nido%20Palawan%20Philippines.jpg"
 copyrights = ["Atlantide Phototravel", "Corbis Documentary", "Getty Images"]
 +++
 

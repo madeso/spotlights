@@ -2,7 +2,6 @@
 title = "Trevose Head lighthouse under cloudy sky at sunrise, Cornwall, England, UK"
 date = 2025-03-20T22:01:39+01:00
 tags = ["in England", "Lighthouse", "in UK"]
-image = "/Trevose%20Head%20Lighthouse%20Under%20Cloudy%20Sky%20at%20Sunrise%20Cornwall%20England%20UK.jpg"
 copyrights = ""
 +++
 

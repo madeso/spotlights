@@ -2,7 +2,6 @@
 title = 'Walkway and pavilion in Khao Sam Roi Yot National Park, Thailand'
 date = 2025-02-18T16:52:59+01:00
 tags = ["Pavilion", "National Park", "in Thailand"]
-image = "/Walkway%20and%20Pavilion%20in%20Khao%20Sam%20Roi%20Yot%20National%20Park%20Thailand.jpg"
 copyrights = ["Invisiblesane", "Shutterstock"]
 +++
 

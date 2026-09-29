@@ -2,7 +2,6 @@
 title = 'Aerial view of Glass Window Bridge, Eleuthera, Bahamas'
 date = 2025-02-10T12:52:01+01:00
 tags = ["Water", "Bridge", "in Bahamas", "Aerial View"]
-image = "/Aerial%20View%20of%20Glass%20Window%20Bridge%20Eleuthera%20Bahamas.jpg"
 copyrights = ["RooM The Agency", "Adobe Stock"]
 +++
 

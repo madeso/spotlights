@@ -2,7 +2,6 @@
 title = 'Sugarloaf Cable Car in Rio de Janeiro, Brazil'
 date = 2025-02-19T10:53:30+01:00
 tags = ["in Rio De Janeiro", "in Brazil", "Cable Car"]
-image = "/Sugarloaf%20Cable%20Car%20in%20Rio%20De%20Janeiro%20Brazil.jpg"
 copyrights = ["Antonino Bartuccio", "SOPA", "eStock Photo"]
 +++
 

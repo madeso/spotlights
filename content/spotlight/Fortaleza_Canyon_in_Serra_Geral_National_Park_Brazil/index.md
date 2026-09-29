@@ -2,7 +2,6 @@
 title = "Fortaleza Canyon in Serra Geral National Park, Brazil"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Brazil", "National Park"]
-image = "/Fortaleza%20Canyon%20in%20Serra%20Geral%20National%20Park%20Brazil.jpg"
 copyrights = ["missing"]
 +++
 

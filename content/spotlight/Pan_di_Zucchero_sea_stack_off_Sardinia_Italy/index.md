@@ -2,7 +2,6 @@
 title = "Pan di Zucchero sea stack off Sardinia, Italy"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Italy"]
-image = "/Pan%20di%20Zucchero%20sea%20stack%20off%20Sardinia%20Italy.jpeg"
 copyrights = ["missing"]
 +++
 

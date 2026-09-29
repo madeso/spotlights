@@ -2,7 +2,6 @@
 title = 'Embalse Guatapé, Colombia'
 date = 2025-01-24T12:45:00+01:00
 tags = ["in Colombia", "Lake"]
-image = "/Embalse%20Guatape%20Colombia.jpg"
 copyrights = ["Hispanolistic", "E", "Getty Images"]
 +++
 

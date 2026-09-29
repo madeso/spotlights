@@ -2,7 +2,6 @@
 title = "Canoe dock on Moraine Lake in Alberta, Canada"
 date = 2025-02-20T12:04:32+01:00
 tags = ["in Canada", "Lake", "Boat"]
-image = "/Canoe%20Dock%20on%20Moraine%20Lake%20in%20Alberta%20Canada.jpg"
 copyrights = ["rabbit75_fot", "Adobe Stock"]
 +++
 

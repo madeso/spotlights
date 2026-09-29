@@ -2,7 +2,6 @@
 title = "Castle of Almourol, Portugal"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Portugal", "Castle"]
-image = "/Castle%20of%20Almourol%20Portugal.jpg"
 copyrights = ["missing"]
 +++
 

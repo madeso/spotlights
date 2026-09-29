@@ -2,7 +2,6 @@
 title = "Bassin de la Paix waterfall on Réunion Island"
 date = 2025-03-28T20:19:34+01:00
 tags = ["Waterfall", "Island", "Water", "in Reunion"]
-image = "/Bassin%20De%20La%20Paix%20Waterfall%20on%20Reunion%20Island.jpg"
 copyrights = ["Gael Fontaine", "Moment", "Getty Images"]
 +++
 

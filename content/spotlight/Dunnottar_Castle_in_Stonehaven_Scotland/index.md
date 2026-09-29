@@ -2,7 +2,6 @@
 title = "Dunnottar Castle in Stonehaven, Scotland"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Scotland", "Castle", "Fortress"]
-image = "/Dunnottar%20Castle%20in%20Stonehaven%20Scotland.jpeg"
 copyrights = ["Silvia Otte", "Stone", "Getty Images"]
 +++
 

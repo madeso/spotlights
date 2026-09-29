@@ -2,7 +2,6 @@
 title = "Chapada Diamantina in Bahia, Brazil"
 date = 2025-03-12T14:45:14+01:00
 tags = ["in Brazil"]
-image = "/Chapada%20Diamantina%20in%20Bahia%20Brazil.jpg"
 copyrights = ["Aldo Pavan", "The Image Bank", "Getty Images"]
 +++
 

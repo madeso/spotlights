@@ -2,7 +2,6 @@
 title = "Aerial view over Maasai Mara National Reserve, Kenya"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Kenya", "National Reserve", "National Park", "Balloon", "Aerial View"]
-image = "/Aerial%20view%20over%20Maasai%20Mara%20National%20Reserve%20Kenya.jpeg"
 copyrights = ["missing"]
 +++
 

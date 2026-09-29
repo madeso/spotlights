@@ -2,7 +2,6 @@
 title = "Ronda in the Province of Málaga, Spain"
 date = 2026-04-29T10:37:24+02:00
 tags = ["Spain", "Malaga"]
-image = "/Ronda%20in%20the%20Province%20of%20Malaga%20Spain.jpg"
 copyrights = ["Marcp_dmoz on Flickr / Getty Images"]
 +++
 

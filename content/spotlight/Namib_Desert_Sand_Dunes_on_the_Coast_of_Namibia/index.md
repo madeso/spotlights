@@ -2,7 +2,6 @@
 title = "Namib Desert sand dunes on the coast of Namibia"
 date = 2025-03-05T10:40:35+01:00
 tags = ["in Namibia", "Desert", "Sand Dunes"]
-image = "/Namib%20Desert%20Sand%20Dunes%20on%20the%20Coast%20of%20Namibia.jpg"
 copyrights = ["Peter Adams", "Stone", "Getty Images"]
 +++
 

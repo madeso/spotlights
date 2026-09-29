@@ -2,7 +2,6 @@
 title = 'Bombo Headland coast at Kiama, Australia'
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Australia"]
-image = "/Bombo%20Headland%20coast%20at%20Kiama-Australia.jpg"
 copyrights = ["missing"]
 +++
 

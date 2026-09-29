@@ -2,7 +2,6 @@
 title = "Hachijō-jima, an island in Japan's Izu archipelago"
 date = 2025-02-18T17:03:28+01:00
 tags = ["National Park", "Island", "Volcano", "in Japan"]
-image = "/Hachijo%20Jima%20an%20Island%20in%20Japans%20Izu%20Archipelago.jpg"
 copyrights = ["Sean Pavone", "Alamy Stock Photo"]
 +++
 

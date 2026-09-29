@@ -2,7 +2,6 @@
 title = "Forth Bridge in Fife, Scotland"
 date = 2025-03-20T21:52:12+01:00
 tags = ["Bridge", "in Scotland", "Water"]
-image = "/Forth%20Bridge%20in%20Fife%20Scotland.jpg"
 copyrights = ["John Carroll Photography", "Alamy Stock Photo"]
 +++
 

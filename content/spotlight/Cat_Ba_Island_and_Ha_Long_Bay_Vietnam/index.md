@@ -2,7 +2,6 @@
 title = 'Cát Bà Island and Ha Long Bay, Vietnam'
 date = 2025-02-18T16:20:33+01:00
 tags = ["in Vietnam", "Mountain"]
-image = "/Cat%20Ba%20Island%20and%20Ha%20Long%20Bay%20Vietnam.jpg"
 copyrights = ["Melinda Nagy", "Adobe Stock"]
 +++
 

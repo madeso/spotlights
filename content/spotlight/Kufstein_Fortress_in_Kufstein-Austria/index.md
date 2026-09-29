@@ -2,7 +2,6 @@
 title = "Kufstein Fortress in Kufstein, Austria"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Austria", "Fortress"]
-image = "/Kufstein%20Fortress%20in%20Kufstein-Austria.jpg"
 copyrights = ["missing"]
 +++
 

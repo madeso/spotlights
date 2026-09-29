@@ -2,7 +2,6 @@
 title = "Lake Hibara in Bandai-Asahi National Park, Japan"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Japan", "Lake", "National Park"]
-image = "/Lake%20Hibara%20in%20Bandai-Asahi%20National%20Park%20Japan.jpg"
 copyrights = ["I am happy taking photographs", "Moment", "Getty Images"]
 +++
 

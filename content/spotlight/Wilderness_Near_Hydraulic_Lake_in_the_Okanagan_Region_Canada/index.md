@@ -2,7 +2,6 @@
 title = "Wilderness near Hydraulic Lake in the Okanagan Region, Canada"
 date = 2025-03-13T12:16:33+01:00
 tags = ["River", "in Canada"]
-image = "/Wilderness%20Near%20Hydraulic%20Lake%20in%20the%20Okanagan%20Region%20Canada.jpg"
 copyrights = ["ZargonDesign", "IStock", "Getty Images Plus"]
 +++
 

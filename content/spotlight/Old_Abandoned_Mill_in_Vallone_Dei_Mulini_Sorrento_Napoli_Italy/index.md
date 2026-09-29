@@ -2,7 +2,6 @@
 title = "Old abandoned mill in Vallone dei Mulini, Sorrento, Napoli, Italy"
 date = 2025-03-20T22:14:44+01:00
 tags = ["abandoned", "mill", "in Italy"]
-image = "/Old%20Abandoned%20Mill%20in%20Vallone%20Dei%20Mulini%20Sorrento%20Napoli%20Italy.jpg"
 copyrights = ""
 +++
 

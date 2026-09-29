@@ -2,7 +2,6 @@
 title = "The Mauritshuis and the Binnenhof in The Hague, Netherlands"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Netherlands", "in The Hague"]
-image = "/The%20Mauritshuis%20and%20the%20Binnenhof%20in%20The%20Hague-Netherlands.jpg"
 copyrights = ["missing"]
 +++
 

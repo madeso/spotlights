@@ -2,7 +2,6 @@
 title = 'Lagoa de Santiago in Sete Cidades parish, Azores'
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Azores", "Island", "Lake"]
-image = "/Lagoa%20de%20Santiago%20in%20Sete%20Cidades%20parish-Azores.jpg"
 copyrights = ["missing"]
 +++
 

@@ -2,7 +2,6 @@
 title = 'Ad Deir monument in Petra, Jordan'
 date = 2025-02-19T11:05:58+01:00
 tags = ["monument", "in Jordan", "Rocks"]
-image = "/Ad%20Deir%20Monument%20in%20Petra%20Jordan.jpg"
 copyrights = ["Ratnakorn Piyasirisorost", "Moment", "Getty Images"]
 +++
 

@@ -2,7 +2,6 @@
 title = 'Castle Hill Lighthouse in Newport, Rhode Island, USA'
 date = 2025-02-18T16:46:41+01:00
 tags = ["in USA", "in Newport",  "in Rhode Island", "Lighthouse", "Water"]
-image = "/Castle%20Hill%20Lighthouse%20in%20Newport%20Rhode%20Island%20USA.jpg"
 copyrights = ["Susan Candelario", "age fotostock"]
 +++
 

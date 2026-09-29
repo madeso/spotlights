@@ -2,7 +2,6 @@
 title = "Rocky Mountain bighorn sheep in Jasper National Park, Canada"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Canada", "Animals"]
-image = "/Rocky%20Mountain%20bighorn%20sheep%20in%20Jasper%20National%20Park-Canada.jpg"
 copyrights = ["missing"]
 +++
 

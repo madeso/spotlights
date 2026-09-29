@@ -2,7 +2,6 @@
 title = "Red fox"
 date = 2025-01-22T16:41:27+01:00
 tags = ["Animals"]
-image = "/Red%20fox.jpg"
 copyrights = ["missing"]
 +++
 

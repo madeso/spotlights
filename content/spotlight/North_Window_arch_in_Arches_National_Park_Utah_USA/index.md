@@ -2,7 +2,6 @@
 title = "North Window arch in Arches National Park, Utah, USA"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in USA", "National Park"]
-image = "/North%20Window%20arch%20in%20Arches%20National%20Park%20Utah%20USA.jpeg"
 copyrights = ["missing"]
 +++
 

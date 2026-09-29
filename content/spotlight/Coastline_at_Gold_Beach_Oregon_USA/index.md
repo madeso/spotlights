@@ -2,7 +2,6 @@
 title = 'Coastline at Gold Beach, Oregon, USA'
 date = 2025-02-10T12:49:24+01:00
 tags = ["coastline", "in USA", "Water", "Rocks"]
-image = "/Coastline%20at%20Gold%20Beach%20Oregon%20USA.jpg"
 copyrights = ["Venya Manzyuk", "500px", "Getty Images"]
 +++
 

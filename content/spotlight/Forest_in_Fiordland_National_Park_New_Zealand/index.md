@@ -2,7 +2,6 @@
 title = "Forest in Fiordland National Park, New Zealand"
 date = 2025-03-25T17:01:18+01:00
 tags = ["Forest", "National Park", "in New Zealand", "World Heritage Site"]
-image = "/Forest%20in%20Fiordland%20National%20Park%20New%20Zealand.jpg"
 copyrights = ["Jos Buurmans", "500px", "Getty Images"]
 +++
 

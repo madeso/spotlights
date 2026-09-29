@@ -2,7 +2,6 @@
 title = "Ouse Valley Viaduct in West Sussex"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in West Sussex", "in England", "Bridge"]
-image = "/Ouse%20Valley%20Viaduct%20in%20West%20Sussex.jpg"
 copyrights = ["missing"]
 +++
 

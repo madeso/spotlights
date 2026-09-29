@@ -2,7 +2,6 @@
 title = 'Shoreline on the Black Sea coast in Bulgaria'
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Bulgaria"]
-image = "/Shoreline%20on%20the%20Black%20Sea%20coast%20in%20Bulgaria.jpg"
 copyrights = ["missing"]
 +++
 

@@ -2,7 +2,6 @@
 title = "Iwakuni Castle in Iwakuni, Japan"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Japan", "Castle"]
-image = "/Iwakuni%20Castle%20in%20Iwakuni%20Japan.jpg"
 copyrights = ["missing"]
 +++
 

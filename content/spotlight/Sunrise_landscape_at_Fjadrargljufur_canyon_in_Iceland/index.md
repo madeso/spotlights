@@ -2,7 +2,6 @@
 title = "Sunrise landscape at Fjaðrárgljúfur canyon in Iceland"
 date = 2025-05-08T16:48:05+02:00
 tags = ["Sunrise", "Canyon", "in Iceland"]
-image = "/Sunrise%20landscape%20at%20Fjadrargljufur%20canyon%20in%20Iceland.jpg"
 copyrights = ["missing"]
 +++
 

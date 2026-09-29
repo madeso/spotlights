@@ -2,7 +2,6 @@
 title = "'Isola Bella in Lago Maggiore' (1871), by Sanford Robinson Gifford"
 date = 2025-01-22T16:41:27+01:00
 tags = ["Painting", "by Sanford Robinson Gifford"]
-image = "/Isola%20Bella%20in%20Lago%20Maggiore%20(1871)%20by%20Sanford%20Robinson%20Gifford.jpg"
 copyrights = ["missing"]
 +++
 

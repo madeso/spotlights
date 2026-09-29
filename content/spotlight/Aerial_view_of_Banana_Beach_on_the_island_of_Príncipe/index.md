@@ -2,7 +2,6 @@
 title = "Aerial view of Banana Beach on the island of Príncipe"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Príncipe", "in Africa", "Aerial View"]
-image = "/Aerial%20view%20of%20Banana%20Beach%20on%20the%20island%20of%20Príncipe.jpg"
 copyrights = ["missing"]
 +++
 

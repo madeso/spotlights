@@ -2,7 +2,6 @@
 title = "Rocky beach on Nusa Lembongan, Indonesia"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Indonesia"]
-image = "/Rocky%20beach%20on%20Nusa%20Lembongan%20Indonesia.jpeg"
 copyrights = ["missing"]
 +++
 

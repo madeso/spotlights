@@ -2,7 +2,6 @@
 title = "Drift ice off the coast of Baffin Island, Canada"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Canada"]
-image = "/Drift%20ice%20off%20the%20coast%20of%20Baffin%20Island%20Canada.jpg"
 copyrights = ["missing"]
 +++
 

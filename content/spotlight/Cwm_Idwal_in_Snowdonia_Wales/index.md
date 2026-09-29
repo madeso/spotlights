@@ -2,7 +2,6 @@
 title = "Cwm Idwal in Snowdonia, Wales"
 date = 2025-03-20T21:43:27+01:00
 tags = ["in Wales", "Mountain", "Water", "Reflection"]
-image = "/Cwm%20Idwal%20in%20Snowdonia%20Wales.jpg"
 copyrights = ["Alan Novelli", "Digital Vision", "Getty Images"]
 +++
 

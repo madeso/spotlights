@@ -2,7 +2,6 @@
 title = "View of Auckland from Mount Eden in New Zealand"
 date = 2025-03-12T14:43:18+01:00
 tags = ["in New Zealand"]
-image = "/View%20of%20Auckland%20From%20Mount%20Eden%20in%20New%20Zealand.jpg"
 copyrights = ["Niko Kersting", "Huber", "eStock Photo"]
 +++
 

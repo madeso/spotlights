@@ -2,7 +2,6 @@
 title = "Tai Tam Country Park and reservoir, Hong Kong SAR"
 date = 2025-03-18T09:28:18+01:00
 tags = ["Park", "Water", "Reflection", "in Hong Kong", "in China"]
-image = "/Tai%20Tam%20Country%20Park%20and%20Reservoir%20Hong%20Kong%20SAR.jpg"
 copyrights = ["Tse Hon Ning", "Moment", "Getty Images"]
 +++
 

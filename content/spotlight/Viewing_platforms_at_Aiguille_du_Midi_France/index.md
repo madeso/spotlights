@@ -2,7 +2,6 @@
 title = "Viewing platforms at Aiguille du Midi, France"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in France"]
-image = "/Viewing%20platforms%20at%20Aiguille%20du%20Midi%20France.jpeg"
 copyrights = ["missing"]
 +++
 

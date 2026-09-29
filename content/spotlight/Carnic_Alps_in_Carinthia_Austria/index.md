@@ -2,7 +2,6 @@
 title = 'Carnic Alps in Carinthia, Austria'
 date = 2025-02-18T14:39:42+01:00
 tags = ["Alps", "in Austria"]
-image = "/Carnic%20Alps%20in%20Carinthia%20Austria.jpg"
 copyrights = ["Westend61", "Adobe Stock"]
 +++
 

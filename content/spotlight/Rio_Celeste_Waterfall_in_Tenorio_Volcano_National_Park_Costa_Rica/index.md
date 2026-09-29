@@ -2,7 +2,6 @@
 title = "Rio Celeste waterfall in Tenorio Volcano National Park, Costa Rica"
 date = 2025-03-05T11:20:09+01:00
 tags = ["Waterfall", "National Park", "in Costa Rica"]
-image = "/Rio%20Celeste%20Waterfall%20in%20Tenorio%20Volcano%20National%20Park%20Costa%20Rica.jpg"
 copyrights = ["Matteo Colombo", "Moment", "Getty Images"]
 +++
 

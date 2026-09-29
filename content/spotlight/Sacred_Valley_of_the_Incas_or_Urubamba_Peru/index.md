@@ -2,7 +2,6 @@
 title = "Sacred Valley of the Incas, or Urubamba, Peru"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Peru"]
-image = "/Sacred%20Valley%20of%20the%20Incas%20or%20Urubamba%20Peru.jpg"
 copyrights = ["missing"]
 +++
 

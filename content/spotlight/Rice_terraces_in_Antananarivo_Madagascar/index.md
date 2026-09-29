@@ -2,7 +2,6 @@
 title = "Rice terraces in Antananarivo, Madagascar"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Madagascar", "Rice"]
-image = "/Rice%20terraces%20in%20Antananarivo%20Madagascar.jpg"
 copyrights = ["missing"]
 +++
 

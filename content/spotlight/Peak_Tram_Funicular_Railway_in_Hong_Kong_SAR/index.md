@@ -2,7 +2,6 @@
 title = "Peak Tram Funicular Railway in Hong Kong SAR"
 date = 2025-03-24T20:43:47+01:00
 tags = ["Tram", "Railway", "In Hong Kong", "in China"]
-image = "/Peak%20Tram%20Funicular%20Railway%20in%20Hong%20Kong%20SAR.jpg"
 copyrights = ["Caroline Pang", "Moment", "Getty Images"]
 +++
 

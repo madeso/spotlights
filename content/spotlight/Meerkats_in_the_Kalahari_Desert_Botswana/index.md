@@ -2,7 +2,6 @@
 title = 'Meerkats in the Kalahari Desert, Botswana'
 date = 2025-02-03T14:53:21+01:00
 tags = ["Animals", "in Botswana", "Desert"]
-image = "/Meerkats%20in%20the%20Kalahari%20Desert%20Botswana.jpg"
 copyrights = ["Martin Mecnarowski", "Adobe Stock"]
 +++
 

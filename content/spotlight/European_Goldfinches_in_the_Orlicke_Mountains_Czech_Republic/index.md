@@ -2,7 +2,6 @@
 title = "European goldfinches in the Orlické Mountains, Czech Republic"
 date = 2025-04-10T14:34:22+02:00
 tags = ["Animals", "in Czech Republic"]
-image = "/European%20Goldfinches%20in%20the%20Orlicke%20Mountains%20Czech%20Republic.jpg"
 copyrights = ["Tunatura", "IStock", "Getty Images Plus"]
 +++
 

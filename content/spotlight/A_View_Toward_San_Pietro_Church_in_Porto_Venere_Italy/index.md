@@ -2,7 +2,6 @@
 title = "A view toward San Pietro church in Porto Venere, Italy"
 date = 2025-03-12T14:31:09+01:00
 tags = ["in Italy", "Water", "Lord Byron"]
-image = "/A%20View%20Toward%20San%20Pietro%20Church%20in%20Porto%20Venere%20Italy.jpg"
 copyrights = ["Marco Bottigelli", "Moment", "Getty Images"]
 +++
 

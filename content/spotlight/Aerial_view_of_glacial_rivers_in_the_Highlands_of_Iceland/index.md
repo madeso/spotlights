@@ -2,7 +2,6 @@
 title = "Aerial view of glacial rivers in the Highlands of Iceland"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Iceland", "Aerial View"]
-image = "/Aerial%20view%20of%20glacial%20rivers%20in%20the%20Highlands%20of%20Iceland.jpeg"
 copyrights = ["missing"]
 +++
 

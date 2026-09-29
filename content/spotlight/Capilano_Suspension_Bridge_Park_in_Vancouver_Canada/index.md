@@ -2,7 +2,6 @@
 title = "Capilano Suspension Bridge Park in Vancouver, Canada"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Canada", "Bridge"]
-image = "/Capilano%20Suspension%20Bridge%20Park%20in%20Vancouver%20Canada.jpg"
 copyrights = ["missing"]
 +++
 

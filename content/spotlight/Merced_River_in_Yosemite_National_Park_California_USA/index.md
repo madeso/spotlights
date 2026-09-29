@@ -2,7 +2,6 @@
 title = "Merced River in Yosemite National Park, California, USA"
 date = 2025-03-05T08:56:26+01:00
 tags = ["in USA", "National Park", "River"]
-image = "/Merced%20River%20in%20Yosemite%20National%20Park%20California%20USA.jpg"
 copyrights = ["Image by Chris Winsor", "Moment", "Getty Images"]
 +++
 

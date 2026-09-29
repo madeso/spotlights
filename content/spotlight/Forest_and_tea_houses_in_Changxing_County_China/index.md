@@ -2,7 +2,6 @@
 title = 'Forest and tea houses in Changxing County, China'
 date = 2025-01-28T11:37:25+01:00
 tags = ["Forest", "House", "in China"]
-image = "/Forest%20and%20tea%20houses%20in%20Changxing%20County%20China.jpg"
 copyrights = ["Waitforlight", "Moment", "Getty Images"]
 +++
 

@@ -2,7 +2,6 @@
 title = 'Aerial view of Sigiriya fortress in Sri Lanka'
 date = 2025-01-22T16:41:27+01:00
 tags = ["Aerial view", "in Sri Lanka", "Fortress", "World Heritage Site", "Sigiriya fortress"]
-image = "/Sigiriya%20fortress%20in%20Sri%20Lanka.jpg"
 copyrights = ["missing"]
 +++
 

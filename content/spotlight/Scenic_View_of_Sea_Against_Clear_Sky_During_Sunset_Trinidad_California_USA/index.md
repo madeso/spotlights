@@ -2,7 +2,6 @@
 title = "Scenic view of sea against clear sky during sunset, Trinidad, California, USA"
 date = 2025-03-20T22:18:28+01:00
 tags = ["Water", "Reflection", "sunset", "in California", "in USA"]
-image = "/Scenic%20View%20of%20Sea%20Against%20Clear%20Sky%20During%20Sunset%20Trinidad%20California%20USA.jpg"
 copyrights = ""
 +++
 

@@ -2,7 +2,6 @@
 title = "Széchenyi Chain Bridge in Budapest, Hungary"
 date = 2025-03-27T21:29:04+01:00
 tags = ["Reflection", "Houses", "Water", "Bridge", "in Budapest", "in Hungary"]
-image = "/Szechenyi%20Chain%20Bridge%20in%20Budapest%20Hungary.jpg"
 copyrights = ["Luigi Vaccarella", "SOPA", "eStock Photo"]
 +++
 

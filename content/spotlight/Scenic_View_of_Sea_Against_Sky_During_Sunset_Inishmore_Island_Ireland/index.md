@@ -2,7 +2,6 @@
 title = "Scenic view of sea against sky during sunset, Inishmore island, Ireland"
 date = 2025-03-12T15:50:42+01:00
 tags = ["Water", "Sunset", "in Ireland"]
-image = "/Scenic%20View%20of%20Sea%20Against%20Sky%20During%20Sunset%20Inishmore%20Island%20Ireland.jpg"
 copyrights = ""
 +++
 

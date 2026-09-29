@@ -2,7 +2,6 @@
 title = 'Tugela Valley within the Drakensberg region of South Africa'
 date = 2025-02-19T10:56:18+01:00
 tags = ["Valley", "in South Africa"]
-image = "/Tugela%20Valley%20Within%20the%20Drakensberg%20Region%20of%20South%20Africa.jpg"
 copyrights = ["David Noton Photography", "Alamy Stock Photo"]
 +++
 

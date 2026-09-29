@@ -2,7 +2,6 @@
 title = "Traditional houses in Wuzhen, China"
 date = 2025-03-05T10:37:49+01:00
 tags = ["House", "in China"]
-image = "/Traditional%20Houses%20in%20Wuzhen%20China.jpg"
 copyrights = ["Waitforlight", "Moment", "Getty Images"]
 +++
 

@@ -2,7 +2,6 @@
 title = 'Fairy chimneys in Göreme National Park, Turkey'
 date = 2025-01-24T12:47:06+01:00
 tags = ["in Turkey", "National Park"]
-image = "/goreme%20national%20park.jpg"
 copyrights = ["Ron Stroud", "Masterfile"]
 +++
 

@@ -2,7 +2,6 @@
 title = 'Salt Point State Park, California, USA'
 date = 2025-02-04T12:52:00+01:00
 tags = ["in USA", "in California", "Water"]
-image = "/Salt%20Point%20State%20Park%20California%20USA.jpg"
 copyrights = ["Rainer Mirau", "Huber", "eStock Photo"]
 +++
 

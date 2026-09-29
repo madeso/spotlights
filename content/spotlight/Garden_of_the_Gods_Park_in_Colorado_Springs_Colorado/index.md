@@ -2,7 +2,6 @@
 title = 'Garden of the Gods Park in Colorado Springs, Colorado'
 date = 2025-02-19T11:02:50+01:00
 tags = ["Park", "in Colorado Springs", "in Colorado"]
-image = "/Garden%20of%20the%20Gods%20Park%20in%20Colorado%20Springs%20Colorado.jpg"
 copyrights = ["Sean Pavone", "IStock", "Getty Images Plus"]
 +++
 

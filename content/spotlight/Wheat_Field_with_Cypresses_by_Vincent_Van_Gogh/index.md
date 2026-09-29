@@ -2,7 +2,6 @@
 title = "'Wheat Field with Cypresses' (1889), by Vincent Van Gogh"
 date = 2025-01-22T16:41:27+01:00
 tags = ["Painting", "by Vincent Van Gogh"]
-image = "/Wheat%20Field%20with%20Cypresses%20by%20Vincent%20Van%20Gogh.jpg"
 copyrights = ["missing"]
 +++
 

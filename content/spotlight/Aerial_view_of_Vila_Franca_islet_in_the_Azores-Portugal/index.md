@@ -2,7 +2,6 @@
 title = "Aerial view of Vila Franca islet in the Azores, Portugal"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Portugal", "Aerial View"]
-image = "/Aerial%20view%20of%20Vila%20Franca%20islet%20in%20the%20Azores-Portugal.jpg"
 copyrights = ["missing"]
 +++
 

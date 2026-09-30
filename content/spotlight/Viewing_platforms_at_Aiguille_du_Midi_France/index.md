@@ -2,7 +2,7 @@
 title = "Viewing platforms at Aiguille du Midi, France"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in France"]
-copyrights = ["missing"]
+copyrights = ["unknown"]
 +++
 
 The Aiguille du Midi in eastern France is one of many peaks in the Mont Blanc massif, an Alpine range that stretches across the border into Italy and Switzerland. In 1909, an aerial tramway was proposed to take tourists from Chamonix, the valley town below, to the top of the Aiguille du Midi—a plan finally realized in 1955. The cable car to the summit is still considered the highest vertical-ascent cable car in the world. Visitors can climb aboard in Chamonix and ride to the top—more than 9,000 vertical feet—in under 20 minutes.

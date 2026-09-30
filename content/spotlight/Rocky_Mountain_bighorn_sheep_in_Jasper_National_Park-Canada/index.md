@@ -2,7 +2,7 @@
 title = "Rocky Mountain bighorn sheep in Jasper National Park, Canada"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Canada", "Animals"]
-copyrights = ["missing"]
+copyrights = ["unknown"]
 +++
 
 The name of the animals in our image is about as straightforward as you can get: bighorn sheep. And the subspecies we're looking at is the biggest bighorn of all. Basking in a bit of sunshine in Jasper National Park, a vast wilderness reserve in Alberta, are two Rocky Mountain bighorn sheep. Males, or rams, commonly weigh over 300 pounds, with 30 pounds carried in their impressive, curving horns alone.

@@ -2,7 +2,7 @@
 title = "A vicuña in Chimborazo Province, Ecuador"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Ecuador", "Animals"]
-copyrights = ["missing"]
+copyrights = ["unknown"]
 +++
 
 Along with its cousins, the llama, alpaca, and guanaco, the vicuña is one of four South American camelids. (They’re related to, you guessed it, camels.) And while they’re all prized for their wool, the vicuña boasts the finest fibres of the quartet, at once exceptionally soft, lightweight and very warm. Vicuña wool is one of the most expensive fabrics in the world, far exceeding the cost of cashmere. This pricey coat has been both a boon and a threat to the vicuña.

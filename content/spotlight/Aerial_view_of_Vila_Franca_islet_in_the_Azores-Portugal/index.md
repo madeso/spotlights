@@ -2,7 +2,7 @@
 title = "Aerial view of Vila Franca islet in the Azores, Portugal"
 date = 2025-01-22T16:41:27+01:00
 tags = ["in Portugal", "Aerial View"]
-copyrights = ["missing"]
+copyrights = ["unknown"]
 +++
 
 Take a look through a photo collection of Vila Franca islet and you're bound to see a great deal of aerial images. This islet in the Azores is lovely from any angle—especially when seen from the nearby shore of São Miguel Island. But a top-down view reveals the beautiful circle of Vila Franca's lagoon. Only a small inlet connects the lagoon to the sea, so the water here is calm and ideal for swimming. Why this striking symmetry? Vila Franca is what remains of an exposed volcanic cone, and its crater, now filled with seawater, is the lagoon.

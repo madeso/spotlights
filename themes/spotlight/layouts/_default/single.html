@@ -6,7 +6,14 @@
 	<time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 
 	{{ with .Resources.Get "spotlight.jpeg" }}
-		<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+		<details class="details-lightbox" aria-label="larger image">
+			<summary>
+				<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" loading="lazy">
+			</summary>
+			<div>
+				<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" loading="lazy">
+			</div>
+		</details>
 	{{ end }}
 	{{ partial "terms.html" (dict "taxonomy" "copyrights" "page" .) }}
 	{{ .Content }}

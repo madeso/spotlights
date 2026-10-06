@@ -123,21 +123,66 @@ ul.terms-list li.spacing:after {
 }
 
 /*
-// css only
-// bug: bullet point visible before linewrap, should be hidden
-ul.terms-list {
-	list-style-type: none;
-	padding: 0;
-}
-ul.terms-list li {
-	white-space: nowrap;
-}
-ul.terms-list li {
-	display: inline list-item;
+lightbox
+src: https://danq.me/2025/08/15/details-summary-lightboxes-in-pure-html-css/
+*/
+.details-lightbox {
+  summary {
+    display: block;
+    cursor: zoom-in;
+
+    &::before {
+      content: '';
+      backdrop-filter: none;
+      transition: backdrop-filter 0.5s, background 0.2s;
+      background: transparent;
+    }
+  }
+
+  & > div img {
+    max-width: 95vw;
+    max-height: 95vh;
+    box-shadow: 0 0 12px #fff6;
+    opacity: 0;
+    transition: filter 0.3s, opacity 0.6s;
+    filter: blur(6px);
+  }
+
+  &[open] > div {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 110;
+    pointer-events: none;
+
+    img {
+      opacity: 1;
+      filter: none;
+    }
+  }
+
+  &[open] > summary {
+    cursor: auto;
+
+    &::before {
+      content: '';
+      background: #000a;
+      backdrop-filter: blur(6px);
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vw;
+      z-index: 109;
+    }
+  }
 }
 
-ul.terms-list li:not(:last-child)::after {
-	content: "•";
-	margin: 0 0.5rem;
+body:has(.details-lightbox[open]) {
+  overflow: hidden;
 }
-*/

@@ -5,7 +5,7 @@
 	{{ $dateHuman := .Date | time.Format ":date_long" }}
 	<time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 
-	{{ with .Resources.Get "spotlight.jpeg" }}
+	{{ with .Resources.Get "spotlight.jpg" }}
 		<details class="details-lightbox" aria-label="larger image">
 			<summary>
 				<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" loading="lazy">

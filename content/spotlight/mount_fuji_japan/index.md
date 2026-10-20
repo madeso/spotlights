@@ -1,7 +1,7 @@
 +++
 title = "Mount Fuji, Japan"
 date = 2026-10-08T11:13:10+02:00
-tags = [""]
+tags = ["In Japan", "Mount Fuji", "Mountain"]
 copyrights = ["Florian Augustin", "Shutterstock"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Burano, Italy"
 date = 2026-11-10T11:54:47+01:00
-tags = ["in Italy", "Reflections", "Boats"]
+tags = ["in Italy", "Reflections", "Boats", "House"]
 copyrights = ["Olga_Gavrilova", "iStock", "Getty Images Plus"]
 +++
 

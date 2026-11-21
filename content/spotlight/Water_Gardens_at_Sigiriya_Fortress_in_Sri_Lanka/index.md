@@ -1,7 +1,7 @@
 +++
 title = "Water gardens at Sigiriya fortress in Sri Lanka"
 date = 2025-03-12T14:53:29+01:00
-tags = ["in Sri Lanka", "fortress", "Sigiriya fortress"]
+tags = ["in Sri Lanka", "fortress", "Sigiriya fortress", "Reflection"]
 copyrights = ["Frans Sellies", "Moment", "Getty Images"]
 +++
 
